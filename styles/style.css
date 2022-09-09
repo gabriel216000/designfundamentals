@@ -5,19 +5,24 @@ body {
 
 }
 
+
 header {
-    position: relative;
+    display: grid;
 }
 
 .intro {
     background-color: #CEFAD0;
-    display:inline-block;
-    
+    display: inline-block;
+    margin: auto;
+    padding: 5px 10px 5px 9px ;
 }
 
 .dpr {
     background-color: #83F28F;
     display: inline-block;
+    margin: auto;
+    padding: 5px 0 5px 0 ;
+    
 }
 
 .first {
@@ -27,6 +32,27 @@ header {
 .second {
     display: flex;
 }
+
+.c1 {
+    background-color: #ABF7B1;
+}
+
+.c2 {
+    background-color: #5CED73;
+}
+
+.c3 {
+    background-color: #00C04B;
+}
+
+.c4 {
+    background-color: #00AB41;
+}
+
+.c5 {
+    background-color: #ABF7B1;
+}
+
 
 img {
     width: 300px;
