@@ -1,0 +1,25 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    
+}
+
+.intro {
+    background-color: #CEFAD0;
+}
+
+.dpr {
+    background-color: #83F28F;
+}
+
+.first {
+    display: flex;
+}
+
+.second {
+    display: flex;
+}
+
+img {
+    width: 300px;
+}
