@@ -1,15 +1,23 @@
 body {
     font-family: 'Dosis', sans-serif;
+    background-color: #1FD655;
     text-align: center;
-    
+
+}
+
+header {
+    position: relative;
 }
 
 .intro {
     background-color: #CEFAD0;
+    display:inline-block;
+    
 }
 
 .dpr {
     background-color: #83F28F;
+    display: inline-block;
 }
 
 .first {
